@@ -1,4 +1,4 @@
-# 517-nekrasova-kittens
+# 517-nekrasova-food
  Assignment #1
  
  ## About this Repository
@@ -39,7 +39,7 @@ Vareniki are traditional Eastern European dumplings, similar to Pelmeni but typi
   - Mashed potatoes with onions
   - Sweet cherries
   - Cottage cheese with sugar
-  
+
   #### Instructions:
 1. **Make the dough**: In a large bowl, mix the flour, egg, water, and salt until a smooth dough forms. Let it rest for 30 minutes.
 2. **Prepare the filling**: Choose your filling (e.g., mashed potatoes, cherries, or sweetened cottage cheese) and set it aside.
