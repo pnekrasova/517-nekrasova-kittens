@@ -50,7 +50,7 @@ Vareniki are traditional Eastern European dumplings, similar to Pelmeni but typi
 ### Borsch
 Borsch is more than just a soup; it's a cultural experience. Known for its vibrant red color and complex flavor profile, this dish combines beets with a variety of vegetables and meats. It's often served with a dollop of sour cream and garnished with fresh dill.
 
-![Borsch](https://i.pinimg.com/736x/1b/f2/d7/1bf2d7274407638c78180a1714484819.jpg)
+![Borsch](https://vikalinka.com/wp-content/uploads/2019/01/Borscht-10-Edit.jpg)
 
 ### Kvas
 Kvas is a fermented beverage made from bread, most commonly rye bread. It has a unique, slightly sour taste and is often enjoyed chilled. 
