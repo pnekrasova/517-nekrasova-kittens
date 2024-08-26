@@ -8,7 +8,7 @@
  ### Syrniki
  Syrniki are a type of traditional Eastern European cheese pancake made from fresh cottage cheese. They are slightly sweet, fluffy, and usually served with sour cream, jam, or honey.
 
- ![Syrniki](images/syrniki.jpg)
+ ![Syrniki](https://www.thedailymeal.com/sites/default/files/2017/02/03/Russia%20Syrniki_1_0.jpg)
 
  #### Ingredients:
 - 1 lb of fresh curd cheese (or cottage cheese)
