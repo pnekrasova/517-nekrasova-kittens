@@ -59,3 +59,7 @@ Kvas is a fermented beverage made from bread, most commonly rye bread. It has a 
 
 #### Is it similar to kombucha?
 Kvas is a mildly sweet, fermented drink made from rye bread, while kombucha is a tangy, fizzy drink made from sweet tea fermented with a special culture.
+
+### Links
+- [Dishes you must try in Eastern Europe](https://youtu.be/VURTWLj22ak?si=JbDYxUaxiyeS4tYf)
+- [Syrniki Recipe](https://youtu.be/c7xU-fi1XFo?si=lc2IPGATDlMVq6g4)
