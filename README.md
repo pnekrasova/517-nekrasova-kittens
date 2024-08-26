@@ -47,3 +47,15 @@ Vareniki are traditional Eastern European dumplings, similar to Pelmeni but typi
 4. **Cook the Vareniki**: Boil water in a pot, add the Vareniki, and cook until they float to the top. Drain and serve with sour cream.
 
 
+### Borsch
+Borsch is more than just a soup; it's a cultural experience. Known for its vibrant red color and complex flavor profile, this dish combines beets with a variety of vegetables and meats. It's often served with a dollop of sour cream and garnished with fresh dill.
+
+![Borsch](https://i.pinimg.com/736x/1b/f2/d7/1bf2d7274407638c78180a1714484819.jpg)
+
+### Kvas
+Kvas is a fermented beverage made from bread, most commonly rye bread. It has a unique, slightly sour taste and is often enjoyed chilled. 
+
+![Kvas](https://cdn.momsdish.com/wp-content/uploads/2021/08/Easiest-Kvass-Recipe-07-1200x1800.jpg)
+
+#### Is it similar to kombucha?
+Kvas is a mildly sweet, fermented drink made from rye bread, while kombucha is a tangy, fizzy drink made from sweet tea fermented with a special culture.
